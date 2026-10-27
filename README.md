@@ -14,17 +14,6 @@ Android 8.0+ ｜ 版本 1.0 ｜ DGLAB 4 ｜ 郊狼 2.0 / 3.0
 
 **把手机架好，让猫娘教官看着小公主站稳、收好双手，再完成不定时的屈膝礼考核。** 动作幅度、输出强度、波形和游戏时长，都由你自己设置。
 
-## 下载
-
-👉 **[下载 1.0 安装包 · 推荐 ARM64 手机使用](dist/CoyoteVision-1.0-debug.apk?raw=true)**
-
-| 文件 | 适用情况 |
-| --- | --- |
-| [Android ARM64 安装包](dist/CoyoteVision-1.0-debug.apk?raw=true) | 大多数安卓手机，优先选择 |
-| [Android 32 位 ARM 安装包](dist/CoyoteVision-1.0-armv7-debug.apk?raw=true) | 旧款 32 位 ARM 手机 |
-| [1.0 源码包](dist/CoyoteVisionAndroid-1.0-github-source.zip?raw=true) | 查看源码或自行构建 |
-| [安装包校验值](dist/SHA256SUMS-1.0.txt) | 核对下载文件的 SHA-256 |
-
 安装需要 **Android 8.0 及以上**；当前提供开发签名 APK。下载 APK 后，按手机提示允许本次安装即可。
 
 ## 这是什么
@@ -201,8 +190,6 @@ python tools/package_artifacts.py
 ---
 
 <div align="center">
-
-**小公主也要守规矩，站好再撒娇喵～**
 
 <sub>第三方项目，非 DG-LAB 官方产品。设备联动与实验遮脸的实际表现仍需在对应手机和设备上验证。</sub>
 
