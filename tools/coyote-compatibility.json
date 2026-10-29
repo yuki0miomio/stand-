@@ -1,0 +1,17 @@
+{
+  "checkedDate": "2026-10-26",
+  "transport": "DGLAB 4 official app via V4 Socket RPC; the app owns Bluetooth",
+  "sdkRevision": "3e7ed447e387c2fa52f2c27353c27ff295b0bdeb",
+  "deviceTypes": ["COYOTE_020", "COYOTE_030"],
+  "selection": "Exactly one connected supported slot; pin its slotId and type until re-pairing",
+  "pulseEncoding": {"ver": 3, "frameBytes": 8, "leaseMs": 1000},
+  "intensity": "Official-app RPC units, capped by existing 0-200 game limit; no generation multiplier",
+  "sources": [
+    "https://github.com/dungeonlab-open/dglab-kit/blob/3e7ed447e387c2fa52f2c27353c27ff295b0bdeb/README_CN.md",
+    "https://github.com/dungeonlab-open/dglab-kit/blob/3e7ed447e387c2fa52f2c27353c27ff295b0bdeb/src/socket/base/types.ts",
+    "https://github.com/dungeonlab-open/dglab-kit/blob/3e7ed447e387c2fa52f2c27353c27ff295b0bdeb/src/socket/v4/types.ts",
+    "https://github.com/dungeonlab-open/dglab-kit/blob/3e7ed447e387c2fa52f2c27353c27ff295b0bdeb/src/socket/v4/index.ts",
+    "https://github.com/dungeonlab-open/dglab-bluetooth-protocol/blob/main/coyote/v2/README_CN.md"
+  ],
+  "verificationScope": "Protocol tests and local WebSocket app simulator; no physical Coyote 2.0/3.0 or official app connected"
+}

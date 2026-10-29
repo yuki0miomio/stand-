@@ -1,0 +1,4 @@
+Source: https://github.com/dungeonlab-open/dglab-websocket-server
+Commit: bf6fdd1625d8a76eafc97c38c660c6a3fd71c1d1
+License: GPL-3.0; see LICENSE.
+Files preserved without modification.

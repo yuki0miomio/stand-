@@ -1,0 +1,10 @@
+{
+  "method": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: a finished square Android app icon illustration, 1024 by 1024 composition. On a pure white background, one adorable chibi young adult woman in pastel blush pink and white Rococo court-inspired Lolita fashion, modest elegant full clothing, white opaque tights and pink-and-white Lolita high-heeled shoes with dainty bows. Full body from hair to both shoes, clearly visible. She faces the viewer at a slight three-quarter angle and performs a graceful curtsy: both hands gently grasp and lift the two sides of the outer skirt just slightly, knees visibly bent with one leg subtly behind the other. Keep the skirt modest and the white tights visible below the hem; do not expose underwear. Large expressive head, warm chestnut wavy hair with a small pink bow, sweet gentle smile, clean refined kawaii storybook illustration, soft low-saturation colors, clean warm outlines and delicate simple shading. Pink court dress with white lace collar, puff sleeves, layered white ruffles, small bows, a structured full skirt. Restrained detail and a clear compact silhouette readable as a small mobile app icon. Center the entire figure within the inner 78 percent of the square with ample pure white margin all around, keeping both hands, skirt and shoes safely away from all edges. No text, lettering, logos, border, frame, decorative background objects, or watermark. Do not draw an icon on a phone or a mockup: output the illustration itself filling the white square.",
+  "asset": "app/src/main/res/drawable-nodpi/court_girl_icon.png",
+  "background": "white",
+  "adaptiveForegroundInsetDp": 21,
+  "width": 1254,
+  "height": 1254,
+  "sha256": "843f3da7d7ea7be50a41a95e9a3b5a664cce17aab6c9547f71fd9893c8405991"
+}

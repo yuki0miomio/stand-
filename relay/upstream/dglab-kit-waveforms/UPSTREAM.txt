@@ -1,0 +1,7 @@
+DG-LAB Toolkit waveform data
+https://github.com/dungeonlab-open/dglab-kit
+Commit: 3e7ed447e387c2fa52f2c27353c27ff295b0bdeb
+Source: src/waveform/coyote.ts
+License: GPL-3.0, see LICENSE
+Retrieved: 2026-10-24
+The 24 official Coyote waveform frame lists are retained verbatim in generated PulseShape entries.

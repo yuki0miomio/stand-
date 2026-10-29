@@ -1,0 +1,10 @@
+{
+  "method": "built-in image_gen",
+  "prompt": "Use case: logo-brand. Asset type: final square Android launcher icon illustration, one centered ornament on a pure white background. Primary request: a pink lace ribbon bow with gemstones, no person. Subject: a beautiful large soft blush pink satin bow, two graceful ribbon loops and two short flowing ribbon tails edged with delicate ivory-white scalloped lace, a faceted rose-pink oval gemstone clasp at the center in a fine pale-gold setting, tiny pearl details and a few restrained gem highlights. Hand-drawn romantic rococo stationery illustration, delicate dusty-rose pencil and ink contours, soft watercolor shading, low saturation blush pink and milk white, refined sweet elegant look, clean readable silhouette at small icon size. Symmetrical balanced bow, centered, whole ornament inside the inner 78 percent of the square, generous white safe margins for circular and rounded Android masks. White background, no outer badge/frame. No people, girl, face, body, hands, silhouette, character, text, letters, wordmark, watermark, phone mockup or interface. Output the finished icon artwork itself.",
+  "asset": "app/src/main/res/drawable-nodpi/lace_bow_icon.png",
+  "background": "white",
+  "adaptiveForegroundInsetDp": 21,
+  "width": 1254,
+  "height": 1254,
+  "sha256": "bcf61fc1ab28dccb0a00ba3a1f09aac8dd1211df10128d47f5505abb6e8936e4"
+}
